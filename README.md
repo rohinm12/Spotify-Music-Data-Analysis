@@ -1,4 +1,4 @@
-# Spotify-Music-Data-Analysis - Report
+# Spotify-Music-Data-Analysis
 
 Introduction -->
 
