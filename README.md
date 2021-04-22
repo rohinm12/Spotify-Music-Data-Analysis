@@ -7,6 +7,7 @@ With the growing demand for streaming music platforms like Amazon music, iTunes,
 The project is about performing Exploratory Data Analysis on a Spotify music dataset which comprises of songs streamed from year 2010 through 2019. As Spotify offers one of the largest music streaming service to the users on a global scale, it is evident that understanding different styles of music is an essential step for deriving insights. For the project, we have explored the data to the extent where we could figure out the key elements that influence track popularity.
 
 How it helps music artists and distributors -->
+
 This data exploration is primarily performed to extend support to the music distributors who are operating on digital streaming platforms. Identifying the trend of music would help the distributors to make their music contributions more efficient. Our Project aims to discover insightful patterns with the use of descriptive statistics and visual representations and conduct an in-depth analysis of Spotify Data  which would eventually help music artists to recognize their customers.
 
 Why Data Analysis is Needed? -->
