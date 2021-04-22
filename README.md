@@ -1,6 +1,6 @@
 # Spotify-Music-Data-Analysis
 
-# Introduction -->
+### Introduction -->
 
 With the growing demand for streaming music platforms like Amazon music, iTunes, YouTube etc., Spotify has emerged as one of the largest digital service to contribute in music industry. It has over 286 million monthly active users worldwide. So, what makes streaming music popular?  Do music genres influence the popularity of a track? Are audio features of music responsible for affecting the general trend of music? Analyzing some of those questions could lay a dynamic impact on informed decision making for music business. One of the most eminent ways where Spotify uses data science is by utilizing data from customer interaction to reinforce their music content according to the specific tastes of the user. Their most significant goal is to streamline the music listening experience and encourage the user to discover new music and engage them in streaming every day. This can be achieved using several data mining techniques and approaches. Exploratory Data Analysis and building predictive models with machine learning algorithms are some of those!
 
